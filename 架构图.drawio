@@ -1,1 +1,40 @@
-<mxfile host="www.draw.io" modified="2019-12-16T09:26:39.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" version="12.4.2" etag="W_6mPlz6s4ZHH5ZJO4TX" type="github"><diagram id="LCxbQAhTMh588gYfd3fO">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-12-16T09:34:37.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36" etag="gKDxFraA-KnnGfvKACbV" version="12.4.2" type="github" pages="1">
+  <diagram id="LCxbQAhTMh588gYfd3fO" name="Page-1">
+    <mxGraphModel dx="910" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-3" value="权限" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-4" value="单点登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-5" value="配置文件，开发文件放一起" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="110" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-6" value="代码生成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o5LouYd7SVS8MVWD0Rwx-7" target="o5LouYd7SVS8MVWD0Rwx-8">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-7" value="缓存" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="280" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-8" value="提取基类" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-9" value="异常日志，统一生成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-11" value="多数据源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="o5LouYd7SVS8MVWD0Rwx-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="450" width="120" height="60" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
